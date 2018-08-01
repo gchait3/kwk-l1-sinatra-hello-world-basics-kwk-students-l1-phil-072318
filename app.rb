@@ -1,7 +1,12 @@
-class App < Sinatra::Base
+<!DOCTYPE html>
+<html>
+<head>
+<title>Website Title</title>
+</head>
+<body>
 
-  get '/' do
-    
-  end
+<h1>My First Heading</h1>
+<p>Welcome to "Website Title"!</p>
 
-end
+</body>
+</html>
