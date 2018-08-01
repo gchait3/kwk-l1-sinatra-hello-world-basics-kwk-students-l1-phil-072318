@@ -6,7 +6,7 @@
 <body>
 
 <h1>My First Heading</h1>
-<p>Welcome to "Website Title"!</p>
+<p></p>
 
 </body>
 </html>
