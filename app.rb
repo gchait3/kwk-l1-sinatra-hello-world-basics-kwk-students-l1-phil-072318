@@ -1,7 +1,7 @@
-# class App < Sinatra::Base
+class App < Sinatra::Base
 
-#   get '/' do
+  get '/' do
     
-#   end
+  end
 
-# end
+end
